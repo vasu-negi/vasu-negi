@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/Ss5zpSaKfhj2v04DpQ/giphy.gif" width="30%">
   <br><br>
   <samp>
     I'm Vasu Negi :beer:
