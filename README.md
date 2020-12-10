@@ -8,6 +8,7 @@
     <br><br>
     Algorithms (Beer), Frontend (Beets), Machine Learning/AI(Battlestar Galactica)
     <br><br>
+    Profile: https://vasunegi.com/
     Connect with me: https://www.linkedin.com/in/vasunegi
   </samp>
 </p>
